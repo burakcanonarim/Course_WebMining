@@ -1,0 +1,16 @@
+item8,item3,item7
+item3,item1,item9,item5,item6
+item8,item4,item1,item7,item5,item2
+item7,item3
+item5,item9,item4,item2
+item2,item1,item8,item9,item3
+item6,item2,item5
+item7,item5,item8,item3,item9
+item4,item5,item1,item8
+item4,item5,item1,item7,item8
+item8,item6
+item4,item7,item9,item1
+item2,item4,item7,item8,item5,item1
+item7,item5
+item4,item7,item6,item5,item9,item3,item8
+item1,item3,item2,item6

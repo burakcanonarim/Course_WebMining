@@ -1,0 +1,33 @@
+1- Burak Can Onarım, 150709032, HW1
+
+2- My project can solve that market basket problems but I
+can find only frequent 1-itemsets.
+
+3- I created a function to read from txt file for transactions.
+Then I added all transactions into a multidimensional array.
+This array is dynamic. So even if txt file change, my algorithm
+can work purely. After that process, I counted support numbers
+of all items and I add items that can satisfy the minimum
+support into an ArrayList. Finally, I converted to a dynamic
+multidimensional array.
+
+4- The aim of this program is find all frequent 1-itemsets.
+
+5- Double, String, Integer, Multidimensional Array, ArrayList,
+Arrays, RandomAccessFile, BufferedReader, Exception, Map and
+HashMap are used in my Apriori algorithm.
+
+6-  public static void main(String[] args) throws IOException // like all Java codes
+    public static String[][] readFileIntoMultiDimensionalArray(String inputFile) throws IOException
+    public static int getMaxNumberOfLines(String inputFile)
+    public static Map<String, Double> countFrequencies(ArrayList<String> list)
+    public static ArrayList<String> frequentOneItemset(Map<String, Double> map)
+    public static String[][] convertArrayListToMultiDimensionalArray(ArrayList<String> arrayList)
+
+
+7- No, there is no bug in my algorithm.
+
+8- You only change variable that is called textFile.
+You have to write path of your txt file.
+
+9- Sample output is in rar file.
